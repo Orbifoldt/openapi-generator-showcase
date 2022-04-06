@@ -1,0 +1,6 @@
+quarkus:
+  rest-client:
+    "org.acme.gen.api.PetStoreApi":
+      url: https://www.mypetstore.com/api/v1
+
+#org.acme.gen.api.PetStoreApi/mp-rest/url: https://www.mypetstore.com/api/v1
